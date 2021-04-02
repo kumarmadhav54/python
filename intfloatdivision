@@ -1,0 +1,8 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    # single / is for floating number while // for integer number divisons
+    c = a//b
+    print(c)
+    d = a/b
+    print(d)
